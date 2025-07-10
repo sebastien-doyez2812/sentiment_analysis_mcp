@@ -8,7 +8,7 @@ def sentiment_analysis(text: str) -> str:
     """
     Analysis of the sentiment behing a text
     Args:
-        text, a string, it's the text you want to make a sentiment analysis on
+        text(str): it's the text you want to make a sentiment analysis on
     Return a Json String, containing
         - polarity
         - subjectivity
