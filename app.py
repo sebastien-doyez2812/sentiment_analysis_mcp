@@ -3,7 +3,6 @@ import gradio as gr
 from textblob import TextBlob
 
 
-
 def sentiment_analysis(text: str) -> str:
     """
     Analysis of the sentiment behing a text
