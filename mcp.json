@@ -1,0 +1,11 @@
+{
+    "servers":[
+        {
+            "name": "MCP server",
+            "transport": {
+                "type": "sse",
+                "url": "https://sdoyez-mcp_server_certif.hf.space/gradio_api/mcp/sse"
+            }
+        }
+    ]
+}
